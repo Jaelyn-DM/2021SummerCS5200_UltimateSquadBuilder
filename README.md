@@ -19,5 +19,10 @@ The UML diagram is shown below.
 ![C](https://github.com/yflee93/2021SummerCS5200_UltimateSquadBuilder/blob/main/images/CreateTeam.png?raw=true)
 
    - Read
+   
 ![R](https://github.com/yflee93/2021SummerCS5200_UltimateSquadBuilder/blob/main/images/ReadTeam.png?raw=true)
+
+   - Update
+
+![U](https://github.com/yflee93/2021SummerCS5200_UltimateSquadBuilder/blob/main/images/EditTeam.png?raw=true)
 
