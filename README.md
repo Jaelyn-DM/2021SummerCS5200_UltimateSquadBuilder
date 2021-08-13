@@ -1,5 +1,5 @@
 # 2021SummerCS5200_UltimateSquadBuilder
-Final team project done by Yunfeng Li, Siyan Ma, Qiong Peng and etc... A soccer player and team information search engine, and a squad builder with optimal suggestions.
+Final team project done by Yunfeng Li, Siyan Ma, Qiong Peng, Duo Ma, Young Zhang and Qiong Peng. Our app is a soccer player and team information search engine, and a squad builder with optimal suggestions.
 
 The UML diagram is shown below. 
 ![UML](https://github.com/yflee93/2021SummerCS5200_UltimateSquadBuilder/blob/main/images/UML.png?raw=true)
